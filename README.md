@@ -1,5 +1,5 @@
 # IWAR-2-Reshade
-Achieve Reshade on IWAR 2
+Reshade on IWAR 2
 By Alakelele
 Experimented on the GOG version
 
