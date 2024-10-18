@@ -1,6 +1,6 @@
 # IWAR-2-Reshade
 
-THIS VERSION IS NOW OUTDATED, I WILL MAITAIN IT BUT I ADVISE YOU TO GO THERE AND DOWNLAOD MY LATEST MOD : https://i-war2.com/downloads/category/65-graphical-enhancements
+THIS VERSION IS NOW OUTDATED, I WILL MAITAIN IT BUT I ADVISE YOU TO GO THERE AND DOWNLAOD MY LATEST MOD, BETTER GRAPHICS : https://i-war2.com/downloads/category/65-graphical-enhancements
 
 By Alakelele
 Experimented on the GOG version
